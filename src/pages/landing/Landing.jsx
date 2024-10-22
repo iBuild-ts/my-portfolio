@@ -9,7 +9,10 @@ import Draw from "../../components/Draw";
  * @param {string} name - The name of the user displayed in the Hero section.
  */
 
-const Landing = ({ name }) => {
+const Landing = () => {
+  // Set the name directly
+  const name = "iBuild Tech Solutions";
+
   // Inline styles for the main landing container
   const styles = {
     landing: {
@@ -19,6 +22,7 @@ const Landing = ({ name }) => {
       alignItems: "center",
     },
   };
+
 
   return (
     <>

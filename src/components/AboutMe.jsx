@@ -56,7 +56,7 @@ const AboutMe = ({ name }) => {
             <motion.div className="contentContainer" variants={staggerVariants}>
               {/* Display greeting and job title with animation */}
               <motion.h4 variants={paragraphVariants}>Nice to meet you! 👋🏻</motion.h4>
-              <motion.h5 variants={paragraphVariants}>I'm a Software Engineer at COMPANY.</motion.h5>
+              <motion.h5 variants={paragraphVariants}>I'm a hardcore Website Designer.</motion.h5>
 
               {/* Display content description with animation */}
               <motion.div
@@ -67,21 +67,20 @@ const AboutMe = ({ name }) => {
               >
                 {/* Paragraphs with animation */}
                 <motion.p variants={paragraphVariants}>
-                  Today, I find myself knee-deep in an exhilarating chapter of my journey as a POSITION at the tech
-                  titan, <span style={{ color: "var(--hl-color)" }}> COMPANY</span>. My playground? The captivating
+                  Today, I am fully immersed in an exciting phase of my career as a Lead Website Designer at a leading tech company iBuild.ts, embracing the challenges and opportunities that come with this dynamic role. <span style={{ color: "var(--hl-color)" }}> iBuild.ts</span>. My playground? The captivating
                   universe of <span style={{ color: "var(--hl-color)" }}> DEPARTMENT</span>.
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                  Here, I don my <span style={{ color: "var(--hl-color)" }}> problem-solving </span>
-                  cape and dive headfirst into real-world challenges, all while relentlessly pursuing a{" "}
-                  <span style={{ color: "var(--hl-color)" }}> DEGREE NAME</span> degree from the UNIVERSITY. So here I
-                  am, juggling bits of binary and real-life conundrums, all while crafting my own success story.
+                  Here, I take on real-world challenges with  <span style={{ color: "var(--hl-color)" }}> problem-solving mindset</span>
+                  leveraging the skills I've gained from my early career start on Udemy and Eat-That-Block.{" "}
+                  <span style={{ color: "var(--hl-color)" }}>My journey in blockchain development took off after completing</span>  advanced Solidity courses at Dapp University. where I honed my expertise in
+                  smart contract development
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                  Life is a kaleidoscope of experiences, far beyond the confines of work. When code isn't my focus, I'm
-                  conquering HOBBY, HOBBY, and fueling my love for HOBBY.
+                  Life is full of diverse experiences beyond coding. When I'm not focused on development, I'm immersing myself in Music/Movies, staying active with Games, and indulging my passion for Learning.
+                  These activities fuel my creativity and give me the energy to approach challenges with fresh perspectives, both in my personal life and professional journey.
                 </motion.p>
               </motion.div>
 

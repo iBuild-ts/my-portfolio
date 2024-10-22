@@ -21,7 +21,7 @@ const SocialIcons = () => {
 
   return (
     <div className="socialIcons" style={styles.socialIcons}>
-      <a className="icon" style={styles.icon} href="https://github.com/mdyeates">
+      <a className="icon" style={styles.icon} href="https://github.com/iBuild-ts">
         {/* GitHub Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -29,10 +29,10 @@ const SocialIcons = () => {
           transition={{ delay: 1.8, duration: 0.5, type: "spring" }}
           className="fa-brands fa-github"
           aria-hidden="true"
-          title="Michael Yeates' GitHub Profile"
+          title="iBuild.ts' GitHub Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/mdyeates/">
+      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/may-jesubolade-5553221a3/">
         {/* LinkedIn Icon */}
         <motion.i
           initial={{ y1: 100, opacity: 0 }}
@@ -40,10 +40,10 @@ const SocialIcons = () => {
           transition={{ delay: 1.7, duration: 0.5, type: "spring" }}
           className="fa-brands fa-linkedin"
           aria-hidden="true"
-          title="Michael Yeates' LinkedIn Profile"
+          title="iBuild.ts' LinkedIn Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.instagram.com/michael.yeates/">
+      <a className="icon" style={styles.icon} href="https://www.instagram.com/horlahwealth_01/">
         {/* Instagram Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -51,10 +51,10 @@ const SocialIcons = () => {
           transition={{ delay: 1.6, duration: 0.5, type: "spring" }}
           className="fa-brands fa-instagram"
           aria-hidden="true"
-          title="Michael Yeates' Instagram Profile"
+          title="iBuild.ts' Instagram Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://twitter.com/mdyeates">
+      <a className="icon" style={styles.icon} href="https://x.com/Wb3Dv1">
         {/* Twitter Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -62,7 +62,19 @@ const SocialIcons = () => {
           transition={{ delay: 1.5, duration: 0.5, type: "spring" }}
           className="fa-brands fa-twitter"
           aria-hidden="true"
-          title="Michael Yeates' Twitter Profile"
+          title="iBuild.ts' Twitter Profile"
+        ></motion.i>
+      </a>
+
+      <a className="icon" style={styles.icon} href="https://t.me/keengactive">
+        {/* Twitter Icon */}
+        <motion.i
+          initial={{ y: 100, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          transition={{ delay: 1.5, duration: 0.5, type: "spring" }}
+          className="fa-brands fa-telegram"
+          aria-hidden="true"
+          title="iBuild.ts' Telegram Profile"
         ></motion.i>
       </a>
     </div>

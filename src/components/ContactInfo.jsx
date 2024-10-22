@@ -70,7 +70,7 @@ const ContactInfo = ({ name, email, location }) => {
               <h6 className="infoType">Email</h6>
               {/* Link to email */}
               <span className="infoValue">
-                <a href={`mailto:${email}`}>{email}</a>
+                <a href="mailto:ibuild.ts@gmail.com">ibuild.ts@gmail.com</a>
               </span>
             </div>
           </div>

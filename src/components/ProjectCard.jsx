@@ -14,7 +14,7 @@ import Image from "./Image";
  * @param {number} id - The unique identifier of the project.
  */
 
-const ProjectCard = ({ title, image, color, id }) => {
+const ProjectCard = ({ title, image, id }) => {
   const [ref, inView] = useInView({
     threshold: 0.5,
     triggerOnce: true,
@@ -36,9 +36,9 @@ const ProjectCard = ({ title, image, color, id }) => {
         transition={{ duration: 0.4, ease: "easeInOut" }}
       >
         <div
-          style={{ backgroundColor: color }}
           className="projectCard d-flex align-items-center justify-content-center p-5"
-          onClick={() => {}}
+          style={{ border: '2px solid white', borderRadius: '8px', padding: '16px' }}  // Added white border
+          onClick={() => { }}
         >
           <div className="textWrap col-6 d-flex flex-column justify-content-center align-items-center m-5">
             <h3 className="projectTitle">{title}</h3>
@@ -54,5 +54,6 @@ const ProjectCard = ({ title, image, color, id }) => {
     </Link>
   );
 };
+
 
 export default ProjectCard;

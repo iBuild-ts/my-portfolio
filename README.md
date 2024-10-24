@@ -27,7 +27,7 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
       <a href="https://github.com/iBuild-ts/my-portfolio"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="https://michaelyeates.co.uk">View Live Website</a>
+      <a href="https://my-portfolio-khaki-gamma-53.vercel.app/">View Live Website</a>
       ·
       <a href="https://github.com/iBuild-ts/my-portfolio">Report Bug</a>
       ·
@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:ibuild.ts@gmail.com">michael-yeates@outlook.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:ibuild.ts@gmail.com">ibuild.ts@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/may-jesubolade-5553221a3/">LinkedIn</a> | 
 <a href="https://github.com/iBuild-ts/">GitHub</a>

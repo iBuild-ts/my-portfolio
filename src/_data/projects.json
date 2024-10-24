@@ -1,5 +1,80 @@
 [
   {
+    "title": "TON Telegram Game Bot",
+    "description": "A blockchain-based Telegram game bot powered by TON tokens.",
+    "image": "/projectImages/telegram-bot.png",
+    "image2": "/projectImages/bot-game.jpg",
+    "image3": "/projectImages/crypto-game.png",
+    "technologies": [
+      "JavaScript",
+      "Node.js",
+      "Telegram API",
+      "TON Blockchain",
+      "Smart Contracts"
+    ],
+    "body": "The TON Telegram Game Bot enables users to play casino games and wager TON tokens. Players deposit a minimum of 1 TON token, and the winner takes a portion of the staked tokens. Future updates will include adding multiple game levels and more advanced features built on the TON blockchain.\nThe project showcases expertise in integrating blockchain with real-time applications and leveraging Telegram's API for user interaction. This bot represents an innovative step in merging blockchain and social media platforms for interactive gaming experiences.",
+    "github": "https://github.com/iBuild-ts/my-portfolio",
+    "deployed": "https://t.me/Tonacebot",
+    "id": "7"
+  },
+  {
+    "title": "Andybnb Meme",
+    "description": "A decentralized meme token project built on the Binance Smart Chain.",
+    "image": "/projectImages/andy-meme.png",
+    "image2": "/projectImages/meme-token.png",
+    "image3": "/projectImages/bnb-network.png",
+    "technologies": [
+      "Solidity",
+      "Web3.js",
+      "React",
+      "Binance Smart Chain",
+      "Metamask"
+    ],
+    "body": "Andy Meme is a decentralized dog meme token platform built on the Binance Smart Chain (BNB network). The project allows users to mint, trade, and showcase meme tokens with integrated support for BNB transactions. \nThe website offers an intuitive interface for interacting with the blockchain, supporting wallet connections like Metamask for easy token transfers. This project highlights experience in deploying smart contracts, building blockchain-based DApps, and integrating BNB payments seamlessly into a web interface.\nIn addition to basic token functionality, users can participate in meme contests, vote on favorite memes, and earn rewards in $ANDY tokens.",
+    "github": "https://github.com/iBuild-ts/my-portfolio",
+    "deployed": "https://andybnb.vip/",
+    "id": "8"
+  },
+  {
+    "title": "Dogex",
+    "description": "An AI-powered dog meme project on the Ethereum blockchain.",
+    "image": "/projectImages/dogex.png",
+    "image2": "/projectImages/ai-dog.png",
+    "image3": "/projectImages/ethereum.png",
+    "technologies": [
+      "Solidity",
+      "Web3.js",
+      "React",
+      "Ethereum",
+      "AI/ML",
+      "Metamask"
+    ],
+    "body": "Dogex is an AI-powered meme token project that brings together the fun of dog memes and the cutting-edge power of artificial intelligence on the Ethereum blockchain. Users can mint, trade, and interact with AI-generated dog memes, supported by Ethereum-based transactions.\nThe project showcases your ability to combine **AI/ML models** for content generation with **Ethereum smart contracts** for decentralized token creation and management. The platform supports **Metamask wallet integration** for secure and seamless ETH transactions.",
+    "github": "https://github.com/iBuild-ts",
+    "deployed": "https://www.dogex.meme/",
+    "id": "9"
+  },
+  {
+    "title": "Skellingtonomics",
+    "description": "A meme website built on the Solana blockchain.",
+    "image": "/projectImages/skellingtonomics.png",
+    "image2": "/projectImages/skull-meme.png",
+    "image3": "/projectImages/solana.png",
+    "technologies": [
+      "Solidity",
+      "Solana",
+      "React",
+      "Rust",
+      "Anchor",
+      "Phantom Wallet"
+    ],
+    "body": "Skellingtonomics is a meme website developed on the Solana blockchain, featuring a unique meme token ecosystem powered by Solana's high-performance network. Users can mint, trade, and interact with meme tokens, while leveraging Solana's low fees and fast transactions.\nThe platform showcases advanced Solana development skills, using the Anchor framework and integrating Solana smart contracts to handle meme token creation and transactions. This project also supports **Phantom wallet integration** for secure token management, enabling users to interact with the Solana ecosystem directly from the web interface.",
+    "github": "https://github.com/yourusername/skellingtonomics",
+    "deployed": "https://skellingtonomics.com",
+    "bgcolor": "#8A2BE2",
+    "id": "10"
+  },
+  {
     "title": "Routes",
     "description": "Plan Safe Routes",
     "image": "/projectImages/bike.png",
@@ -19,57 +94,44 @@
     "id": "1"
   },
   {
-    "title": "Weather",
-    "description": "Weather Forecast",
-    "image": "/projectImages/weather.png",
-    "image2": "/projectImages/storm.jpeg",
-    "image3": "/projectImages/weather3.png",
+    "title": "AIBitcoin",
+    "description": "A BNB staking and rewarding system with a referral program.",
+    "image": "/projectImages/aibitcoin.png",
+    "image2": "/projectImages/bnb-staking.png",
+    "image3": "/projectImages/referral-system.png",
     "technologies": [
-      "JavaScript",
-      "jQuery",
-      "HTML",
-      "CSS"
+      "BNB Chain",
+      "Solidity",
+      "React",
+      "Web3.js",
+      "Tailwind CSS",
+      "Metamask"
     ],
-    "body": "This mobile web application leverages the OpenWeatherMap API to deliver real-time weather data for any location. Users can view current conditions including temperature, humidity, and wind speed, as well as a 5-day forecast.\nThe interface automatically adapts between light and dark modes based on the time of day at the given location. Recent searches are stored to enable quick access to frequently checked cities. Geolocation functionality determines the user's position for quick access to local weather.\nBy combining a modern, responsive design with robust weather data pulled from OpenWeatherMap's API, this application aims to provide an intuitive experience for staying up-to-date on the latest weather conditions. The project demonstrates proficiency in integrating third-party APIs, building adaptive interfaces, and crafting performant mobile web applications.",
-    "github": "https://github.com/iBuild-ts",
-    "deployed": "https://mdyeates.github.io/weather-app/",
-    "bgcolor": "var(--hl-color)",
-    "id": "2"
+    "body": "AIBitcoin is a staking and rewarding platform designed for the **BNB network**, featuring a robust referral system that incentivizes users for bringing in more participants. Users can stake their BNB tokens to earn rewards over time, while the integrated referral system allows users to invite others and gain extra benefits. \nThe platform includes **secure wallet connections** using Metamask and provides a user-friendly interface for managing staking rewards and referrals. With a seamless BNB integration, AIBitcoin ensures fast transactions and a transparent rewarding process.\nBuilt with **Solidity** and **Web3.js**, the platform highlights blockchain development skills, focusing on secure staking, reward distribution, and referral tracking.",
+    "github": "https://github.com/yourusername/aibitcoin",
+    "deployed": "https://aibitcoin.com",
+    "bgcolor": "#f0b90b",
+    "id": "11"
   },
   {
-    "title": "Generator",
-    "description": "Effortless web pages",
-    "image": "/projectImages/team.png",
-    "image2": "/projectImages/teamcelebrating.jpeg",
-    "image3": "/projectImages/team3.png",
+    "title": "EdgingSolana",
+    "description": "A meme project built on the Solana blockchain.",
+    "image": "/projectImages/edgingsolana.png",
+    "image2": "/projectImages/solana-meme.png",
+    "image3": "/projectImages/solana-edging.png",
     "technologies": [
-      "JavaScript",
-      "Node",
-      "Bootstrap",
-      "Testing"
+      "Solana",
+      "Rust",
+      "Anchor Framework",
+      "React",
+      "Web3.js",
+      "Tailwind CSS"
     ],
-    "body": "This Node.js command-line application generates an interactive team dashboard from user-provided data. It accepts information about team members and outputs a dynamic HTML page profiling the entire group.\nRather than relying on static spreadsheets, this tool creates a customizable web page that brings employee data to life. The dashboard auto-populates with profiles for each team member, containing details provided via the command-line input.\nBuilt on Node.js, this project demonstrates skills in crafting web applications using JavaScript-based server-side frameworks. It handles input data dynamically to render an animated, engaging profile of the entire team. The end result is an shareable HTML page that serves as a creative alternative to traditional spreadsheet-based team overviews.",
-    "github": "https://github.com/iBuild-ts",
-    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
-    "bgcolor": "#6c4bf4",
-    "id": "3"
-  },
-  {
-    "title": "Quiz",
-    "description": "Test your knowledge",
-    "image": "/projectImages/quiz.png",
-    "image2": "/projectImages/javascript.jpeg",
-    "image3": "/projectImages/quiz3.png",
-    "technologies": [
-      "JavaScript",
-      "HTML",
-      "CSS"
-    ],
-    "body": "This application tests JavaScript knowledge through a timed, question-based quiz. Users are presented with 5 random questions and have 50 seconds to complete the quiz. The remaining time at completion determines the final score, rewarding both accuracy and speed.\nTo add challenge, the timer is reduced by 10 seconds for each incorrect answer. This creates urgency to answer carefully within the time limit. Questions are drawn randomly from a pool to ensure variety upon each attempt.\nBuilt using JavaScript, this project provides hands-on experience creating a responsive quiz application. Key learning outcomes include: \n➤ Generating random questions from a pool of options\n➤ Implementing a countdown timer with penalty deductions\n➤ Calculating scores based on time remaining\n➤ Providing interactive quiz feedback to users\nOverall, this application allows users to test their JavaScript skills through an engaging, time-pressured quiz interface. Both code knowledge and quick thinking are required to achieve a top score.",
-    "github": "https://github.com/iBuild-ts",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
-    "bgcolor": "#f85781",
-    "id": "4"
+    "body": "EdgingSolana is a fun and engaging meme project that leverages the **Solana blockchain** to create a unique crypto experience. This project focuses on building a meme culture while utilizing the **high-speed and low-cost transactions** provided by Solana.\nThe website showcases the project, offering a smooth user experience for those interested in engaging with the **Solana ecosystem**. With a light-hearted approach, EdgingSolana is aimed at engaging the crypto community with humor and a strong meme aesthetic.\nThe project utilizes modern web development tools like **Rust** for smart contract development and the **Anchor Framework** for easy integration with Solana programs, alongside a responsive frontend built with **React** and **Tailwind CSS**.",
+    "github": "https://github.com/yourusername/edgingsolana",
+    "deployed": "https://edgingsolana.com",
+    "bgcolor": "#9945FF",
+    "id": "12"
   },
   {
     "title": "News",
@@ -89,24 +151,5 @@
     "deployed": "https://p1-heroes.netlify.app/",
     "bgcolor": "#e47911",
     "id": "5"
-  },
-  {
-    "title": "Planner",
-    "description": "Conquer your day",
-    "image": "/projectImages/planner.png",
-    "image2": "/projectImages/workplanner.jpeg",
-    "image3": "/projectImages/planner3.png",
-    "technologies": [
-      "JavaScript",
-      "Moment",
-      "Bootstrap",
-      "HTML",
-      "CSS"
-    ],
-    "body": "The Daily Planner App aims to help users maximize productivity and organization. Its intuitive interface enables easy scheduling of appointments and meetings, ensuring nothing gets missed during busy work days.\nThe app goes beyond basic calendar features to set the right mood for different times of day. It automatically transitions between color schemes from morning to evening. To-do items persist in the app, allowing users to revisit pending tasks when needed.\nBuilt with modern web development tools, this project demonstrates skills in crafting responsive web applications with dynamic interfaces. Key learning outcomes include implementing time-based design changes, enabling persistent data storage, and creating an intuitive user experience for scheduling and task management.\nBy combining useful calendar functionality with ambient visual changes and persistent to-dos, the Daily Planner App strives to keep users on track, in the right headspace, and focused on conquering each day more effectively. The end result is a tool to help make the most of every hour.",
-    "github": "https://github.com/iBuild-ts",
-    "deployed": "https://mdyeates.github.io/daily-planner/",
-    "bgcolor": "#3e67ff",
-    "id": "6"
   }
 ]

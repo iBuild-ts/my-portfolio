@@ -43,7 +43,7 @@ const SocialIcons = () => {
           title="iBuild.ts' LinkedIn Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.instagram.com/horlahwealth_01/">
+      <a className="icon" style={styles.icon} href="https://www.instagram.com/">
         {/* Instagram Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -66,7 +66,7 @@ const SocialIcons = () => {
         ></motion.i>
       </a>
 
-      <a className="icon" style={styles.icon} href="https://t.me/keengactive">
+      <a className="icon" style={styles.icon} href="https://t.me/iBuild_ts">
         {/* Twitter Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
